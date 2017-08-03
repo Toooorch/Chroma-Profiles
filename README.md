@@ -1,2 +1,2 @@
-# chroma-mac-profiles
-My profiles for Razer Chroma
+# Razer Synapse Profiles
+My Razer Synapse profiles for various software. I am using Chroma lightning for software shortcuts etc.
